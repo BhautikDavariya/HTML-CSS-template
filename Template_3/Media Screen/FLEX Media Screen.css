@@ -1,0 +1,55 @@
+/* header  */
+@media screen and (max-width: 1292px)
+{
+    .nav_bar_link li {
+        margin: 0 5px;
+    }
+}
+@media screen and (max-width: 1060px)
+{
+    #header_scs_start {
+        flex-direction: row;
+    }
+    #manu_br {
+        width: 100%;
+    }
+    .nav_bar_link li {
+        margin: 5px 5px;
+    }
+}
+@media screen and (max-width: 969px)
+{
+    #OUR_SERVICES_box_scs_start {
+        justify-content: space-evenly;
+    }
+    
+}
+@media screen and (max-width: 1262px)
+{
+    #OUR_PORTFOLI_scs_start {
+        justify-content: space-evenly;
+    }
+    
+}
+@media screen and (max-width: 984px)
+{
+    #OUR_TEAM_box_scs_start {
+        justify-content: space-evenly;
+    }
+    .OUR_TEAM_container {
+        margin: 1% 0;
+    }
+    
+}
+
+
+
+
+
+
+/* @media screen and (max-width: 1056px)
+{
+    .nav_bar_link li {
+        margin: 10px 20px;
+    }
+} */
